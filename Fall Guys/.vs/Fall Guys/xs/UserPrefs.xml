@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{52592B58-7F99-694E-F69A-613D033DE8FE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Fan.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMove.cs" Line="52" Column="40" />
+      <File FileName="Assets/Scripts/PlayerLook.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Pendulum.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu.cs" Line="44" Column="18" />
+      <File FileName="Assets/Scripts/LevelController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Fan.cs" Line="16" Column="2" />
+      <File FileName="Assets/Scripts/BounceNew.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Bounce.cs" Line="7" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fall Guys" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Fan.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="74b2071d-39b4-4543-9470-bb05b820db7f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
